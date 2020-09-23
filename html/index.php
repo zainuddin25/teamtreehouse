@@ -42,7 +42,7 @@
                     </div>
 
                     <div class="d-flex flex-column border position-absolute fixed-bottom">
-                        <p class="font-weight-normal flex-self-center">&copy; <?php echo $name; echo " Last Modifed : "
+                        <p class="font-weight-normal mx-auto flex-self-center">&copy; <?php echo $name; echo " Last Modifed : "
                         .date("F d Y H:i:s.", getlastmod());?></p>
                     </div>
                 </div>
